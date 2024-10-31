@@ -1,6 +1,7 @@
 # 🙋‍♂️ Daniel Gonçalves
 
-**`Software Developer`**
+**`Software Engineer`**
+
 
 - 👋 Hi, I’m Daniel Gonçalves
 - 👀 I’m interested in Web Development
