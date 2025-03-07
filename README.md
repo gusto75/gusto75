@@ -27,6 +27,6 @@
 ### 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gusto75&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gusto75&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gusto75&hide_progress=false)
 
 
